@@ -20,3 +20,8 @@ $ make clean #clean up class files
 ```
 
 My my has java changed a lot since version 4.. It was like riding a bike that turned into a motorcycle. 
+
+
+Todos:
+- More efficient copies
+- Thread safety
